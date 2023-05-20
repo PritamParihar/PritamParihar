@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZOHO Extension<br>🌱 I’m currently learning React.<br>💬 Ask me about Fronted and Backend<br>⚡ Fun fact : I am turning caffeine into code since 2022 ☕💻
+🔭 I’m currently working on Extension<br>🌱 I’m currently learning React.<br>💬 Ask me about Fronted and Backend<br>⚡ Fun fact : I am turning caffeine into code since 2022 ☕💻
 
 
 ## 🌐 Socials:
